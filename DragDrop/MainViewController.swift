@@ -18,7 +18,7 @@ class MainViewController: UIViewController {
         Item("Item 2", details: "Google me"),
         Item("Item 3", details: "Writing log"),
         Item("Item 4", details: "iPhone X"),
-        Item("Item 5", details: "Subscribe to you")
+        Item("Item 5", details: "Subscribe to you"),
         Item("Item 6", details: "MacOS High Sierra")
         ])
     let table2DataSource = ItemDataSource(items: [])
